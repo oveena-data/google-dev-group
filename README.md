@@ -3,7 +3,7 @@ Code activities implemented during Google Developer Group Workshops - Tech talks
 
 ---
 
-Workshop 1 : [Build with AI - 2025](https://github.com/oveena-data/google-dev-group/blob/job-seeker-assistant-app/Contributions.md)
+Workshop 1 : [Build with AI - 2025](https://github.com/oveena-data/google-dev-group/blob/main/job-seeker-assistant-app/contributions.md)
 - How Google Gemini Powers Intelligent Career Matching 
 - Technologies used:
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
