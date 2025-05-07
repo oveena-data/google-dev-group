@@ -3,6 +3,6 @@ Code activities implemented during Google Developer Group Workshops - Tech talks
 
 ---
 
-Workshop 1 : [Build with AI - 2025](job-seeker-assistant-app/Contributions.md)
+Workshop 1 : [Build with AI - 2025]([job-seeker-assistant-app/Contributions.md](https://github.com/oveena-data/google-dev-group/blob/job-seeker-assistant-app/Contributions.md))
 - How Google Gemini Powers Intelligent Career Matching 
 - Technologies used: Vertex AI, Streamlit, Gemini, deployed on Google Cloud Run
