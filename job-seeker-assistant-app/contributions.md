@@ -1,9 +1,14 @@
-# CareerMatch AI - A Job Seeker Assistant App
+# Build With AI 2025
+
+![image](https://github.com/user-attachments/assets/2a7d1007-89bb-46e6-aa91-f0ecde5a0807)
+
+
+## CareerMatch AI - A Job Seeker Assistant App
 A real-time resume analysis app deployed on Google Cloud Run for intelligent job recommendations and resume auditing.
 
 ---
 
-# How to Build:
+## How to Build:
 
 1. Getting Started:
 - The application deployed to Google Cloud Run uses Gradio for the front end interface which handles the interaction with Vertex AI.
@@ -64,6 +69,7 @@ A real-time resume analysis app deployed on Google Cloud Run for intelligent job
 ### Key Takeaways:
 - Particiapted in hands-on workshop to build and deploy the app using Streamlit and Google Cloud Run.
 - Fresh insights into how Google Gemini is reshaping career search experience in Australia.
+
 
   
 
