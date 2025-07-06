@@ -23,3 +23,20 @@ Code activities implemented during Google Developer Group Workshops – tech tal
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cloud Run](https://img.shields.io/badge/Cloud%20Run-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## JAX Series 🧊
+Exploring JAX for high-performance numerical computing and machine learning research.
+
+**Part 1: Intro to JAX and JAX AI**
+- Automatic differentiation with grad() and vmap().
+- XLA compilation for GPU/TPU acceleration.
+- How JAX is transforming modern AI research through functional programming and hardware acceleration.
+
+**Part 2: JAX for Combinatorial Optimisation**
+We investigated how to use JAX to accelerate parallel search algos for the ``Boolean Satisfiability (SAT) problem`` which has real-world applications in:
+- Computer Security
+- Bioinformatics
+- Formal Verification
+- Spectrum Auction Design
+It helped me understand JAX's potential for building fast, research-ready tools!
+
